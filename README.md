@@ -3,16 +3,19 @@
 I'm learning using this repository
 
 # Git Commands
-1. Initialize the repository
+1. Initialize the repository.
 
 ```
 git init
 ```
-2. add changes to staging area
+2. add changes to staging area.
 ```
 git add .
 ```
-3. create a checkpoint for staged changes
+3. create a checkpoint for staged changes.
 ```
 git commit -m "<enter your commit message>"
 ```
+4. for making connection with repo.
+```
+git push origin "branch name"
